@@ -9,12 +9,20 @@
 
 - 🔭 I’m currently working on [NGO Website](https://aayushneupane-dot.github.io/ngoos/)
 
+- 🌱 I’m currently learning **python**
+
+- 📫 How to reach me **aayushneupane822@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/aayush neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aayush neupane" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aayush neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush neupane" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26477157/aayush-neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26477157/aayush-neupane" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/aayushneupane-dot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/aayushneupane-dot" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/aayushneupane20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aayushneupane20" height="30" width="40" /></a>
 <a href="https://fb.com/aayush neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aayush neupane" height="30" width="40" /></a>
 <a href="https://instagram.com/neupaneaayush_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neupaneaayush_7" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/aayush_neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/aayush_neupane" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/killstreak kings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="killstreak kings" height="30" width="40" /></a>
 </p>
 
