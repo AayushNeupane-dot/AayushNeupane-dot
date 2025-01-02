@@ -1,12 +1,31 @@
-<h1 align="center">Hi 👋, I'm Aayush Neupane</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+Aayush Neupane
+🌟 Front-End Developer | Scriptwriter | Tech Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushneupane-dot&label=Profile%20views&color=0e75b6&style=flat" alt="aayushneupane-dot" /> </p>
+Hi! I'm Aayush, a passionate front-end developer with a knack for creating interactive and visually appealing web experiences. I love turning ideas into code and crafting solutions that make a difference.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushneupane-dot" alt="aayushneupane-dot" /></a> </p>
+🔹 Tech Skills:
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Languages: HTML, CSS, JavaScript, C, C++
+Frameworks & Tools: Responsive Design, Modern UI Libraries
+Other Interests: Python scripting and integrating innovative APIs.
+🔹 Projects:
 
+Building responsive websites tailored to user needs.
+Exploring speech recognition and IoT integrations.
+Developing platforms for tech enthusiasts, including podcast and music websites.
+🔹 What Drives Me:
+Combining creativity with technology to solve real-world problems. I also enjoy collaborating with like-minded individuals to push boundaries in tech.
+
+🔹 Current Role:
+Assistant Event Manager at VSN Robotics Club, where I blend my organizational skills with my technical expertise.
+
+💻 Let’s Collaborate:
+I'm open to contributing to open-source projects, brainstorming innovative ideas, or simply connecting over shared interests in tech and development.
+
+📫 Find Me Elsewhere:
+
+Blog: [Your Blog Link]
+LinkedIn: [Your LinkedIn Profile Link]
 - 🔭 I’m currently working on [NGO Website](https://aayushneupane-dot.github.io/ngoos/)
 
 - 🌱 I’m currently learning **python**
