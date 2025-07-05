@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [NGO Website](https://aayushneupane-dot.github.io/ngoos/)
+- 🔭 I’m currently working on [Machine Learning And Data Science)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Data Science with Machine Learning**
 
 - 📫 How to reach me **aayushneupane822@gmail.com**
 
