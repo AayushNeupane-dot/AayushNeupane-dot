@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Neupane</h1>
-<h3 align="center">A Passionate Developer From Nepal</h3>
+<h3 align="center">"Python Developer | Robotics Enthusiast | Building Fun & Practical Projects" "Code, Create, Innovate — Python & Robotics in Action" "Student | Front-End Developer | Exploring AI & Robotics" "Crafting Code and Robots — Learning, Building, Sharing"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushneupane-dot&label=Profile%20views&color=0e75b6&style=flat" alt="aayushneupane-dot" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Front End**
 
 - 📫 How to reach me **aayushneupane822@gmail.com**
 
